@@ -21,3 +21,4 @@
 // console.log(a/b);
 
 // console.log(2**10);
+const a = 10
